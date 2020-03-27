@@ -1,0 +1,13 @@
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Teams.exe
+E:\Research\Intergration Socical\Teams\obj\Debug\netcoreapp3.1\Teams.csprojAssemblyReference.cache
+E:\Research\Intergration Socical\Teams\obj\Debug\netcoreapp3.1\Teams.AssemblyInfoInputs.cache
+E:\Research\Intergration Socical\Teams\obj\Debug\netcoreapp3.1\Teams.AssemblyInfo.cs
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Teams.deps.json
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Teams.runtimeconfig.json
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Teams.runtimeconfig.dev.json
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Teams.dll
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Teams.pdb
+E:\Research\Intergration Socical\Teams\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Research\Intergration Socical\Teams\obj\Debug\netcoreapp3.1\Teams.csproj.CopyComplete
+E:\Research\Intergration Socical\Teams\obj\Debug\netcoreapp3.1\Teams.dll
+E:\Research\Intergration Socical\Teams\obj\Debug\netcoreapp3.1\Teams.pdb
